@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://localremix.com/$1"
+ }
+  ]
+}
