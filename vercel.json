@@ -1,8 +1,11 @@
 {
-  "routes": [
+  "redirects": [{"source": "/localremixhome",       "destination": "/https:localremix.comlocalremixhome",       "permanent": true     }
+],
+  "rewrites": [
     {
-      "src": "/(.*)",
-      "dest": "https://localremix.com/$1"
- }
+      "source": "/(.*)",
+      "destination": "https://localremix.com/$1"
+    }
   ]
 }
+    
