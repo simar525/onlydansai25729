@@ -1,6 +1,5 @@
 {
-  "redirects": [{"source": "/localremixhome",       "destination": "/https:localremix.comlocalremixhome",       "permanent": true     }
-],
+  "redirects": [],
   "rewrites": [
     {
       "source": "/(.*)",
